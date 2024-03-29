@@ -148,7 +148,7 @@ if (edad === null) {
 if (edad >= 18) {
   alert("Excelente tiene la edad necesaria para seguir.");
 } else {
-  alert("Eres menor para proseguir, vuelve dentro de unos años.");
+  alert("Eres menor para continuar tienes que tener 18 años o mas.");
   prompt = ("")
 }
 
